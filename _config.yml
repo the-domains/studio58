@@ -1,0 +1,28 @@
+name: Studio58
+favicon: null
+layout_spectrum: 0.0419809150043875
+typography_spectrum: 0.9806250492110848
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.614272094797343
+  lightness: 0.3381392315495759
+  saturation: 0.7388240322470665
+  rhythmicContrast: 0.9330169940367341
+purpose: []
