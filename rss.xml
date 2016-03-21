@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[BAKE MY DAY]]></title>
         <description><![CDATA[BAKE MY DAY]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/studio58/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Mar 2016 23:26:58 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 21 Mar 2016 23:45:23 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/studio58/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/37045bd4-2651-4a01-b94d-562f266c0679.jpg">]]></description>
+            <link>https://thegrid.ai/studio58/undefined/index.html</link>
+            <guid isPermaLink="false">bc55a96e-d49c-4ff5-8c2a-88e2505fe3f7</guid>
+            <pubDate>Mon, 21 Mar 2016 23:45:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c32bb4ca-3330-4235-9da4-787d3abb3460.jpg">]]></description>
-            <link>undefinede1884b80-1643-4b8c-8a44-2357d34fea18/index.html</link>
+            <link>https://thegrid.ai/studio58/e1884b80-1643-4b8c-8a44-2357d34fea18/index.html</link>
             <guid isPermaLink="false">e1884b80-1643-4b8c-8a44-2357d34fea18</guid>
             <pubDate>Mon, 21 Mar 2016 23:26:55 GMT</pubDate>
         </item>
