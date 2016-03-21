@@ -1,4 +1,4 @@
-name: Studio58
+name: BAKE MY DAY
 favicon: null
 layout_spectrum: 0.0419809150043875
 typography_spectrum: 0.9806250492110848
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.614272094797343
-  lightness: 0.3381392315495759
-  saturation: 0.7388240322470665
-  rhythmicContrast: 0.9330169940367341
+    - '#ffffff'
+    - '#664e41'
+    - '#c8df8d'
+    - '#f07fb3'
+    - '#b2a49a'
+  brandStrength: 0.1875
+  lightness: 1
+  saturation: 1
+  rhythmicContrast: 0.75
 purpose: []
